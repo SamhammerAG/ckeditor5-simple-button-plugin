@@ -1,0 +1,23 @@
+{
+  "name": "@samhammer/ckeditor5-simple-button-plugin",
+  "version": "1.0.0",
+  "main": "src/simple-button-plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamhammerAG/ckeditor5-simple-button-plugin.git"
+  },
+  "keywords": [],
+  "author": "SamhammerAG (https://www.samhammer.de/)",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/SamhammerAG/ckeditor5-simple-button-plugin/issues"
+  },
+  "homepage": "https://github.com/SamhammerAG/ckeditor5-simple-button-plugin#readme",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^11.0.1",
+    "@ckeditor/ckeditor5-ui": "^11.1.0"
+  }
+}
