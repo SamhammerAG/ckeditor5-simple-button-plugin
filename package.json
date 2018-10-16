@@ -1,6 +1,6 @@
 {
   "name": "@samhammer/ckeditor5-simple-button-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/simple-button-plugin.js",
   "repository": {
     "type": "git",
