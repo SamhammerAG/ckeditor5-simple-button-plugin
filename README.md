@@ -35,6 +35,7 @@ InlineEditor
 		simpleButton: [
             {
                 name: "myFirstButton",
+                label: "My First button - Click me",
                 icon: svgXmlContent,
                 syncDisabledState: false,
                 onClick: (buttonView) => { /* ... */ }

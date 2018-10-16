@@ -33,10 +33,9 @@ export default class SimpleButtonUi extends Plugin {
      */
 	createToolbarButton(buttonDefinition) {
 		const editor = this.editor;
-		const t = editor.t;
 
 		editor.ui.componentFactory.add(buttonDefinition.name, locale => {
-			const button = this.createButton(t(buttonDefinition.name), buttonDefinition.icon, locale);
+            const button = this.createButton(buttonDefinition.label, buttonDefinition.icon, locale);
 			button.isEnabled = true;
 			button._syncDisabledState = typeof buttonDefinition.syncDisabledState === "boolean" ? buttonDefinition.syncDisabledState : true;
 
