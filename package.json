@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SamhammerAG/ckeditor5-simple-button-plugin#readme",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^15.0.0",
-    "@ckeditor/ckeditor5-ui": "^15.0.0"
+    "@ckeditor/ckeditor5-core": "~16.0.0",
+    "@ckeditor/ckeditor5-ui": "~16.0.0"
   }
 }
