@@ -1,6 +1,6 @@
 {
   "name": "@samhammer/ckeditor5-simple-button-plugin",
-  "version": "2.11.0",
+  "version": "2.12.0",
   "main": "src/simple-button-plugin.js",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SamhammerAG/ckeditor5-simple-button-plugin#readme",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "~23.1.0",
-    "@ckeditor/ckeditor5-ui": "~23.1.0"
+    "@ckeditor/ckeditor5-core": "~25.0.0",
+    "@ckeditor/ckeditor5-ui": "~25.0.0"
   }
 }
